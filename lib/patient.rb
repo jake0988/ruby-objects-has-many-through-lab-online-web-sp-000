@@ -24,7 +24,7 @@ class Patient
       appointment
     end
     end
-    pry
+    binding.pry
   end
 
     def doctors
